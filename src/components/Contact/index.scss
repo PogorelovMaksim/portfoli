@@ -1,0 +1,61 @@
+.contacts-column {
+	font-size: 30px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 300;
+	max-width: fit-content;
+	animation: pulse 1s;
+	margin-bottom: 80px;
+	list-style-type: none;
+
+}
+
+.contacts-column a {
+	margin-left: -45px;
+}
+
+.text-contact {
+	position: absolute;
+	left: 10%;
+	top: 45%;
+	transform: translateY(-50%);
+	width: 35%;
+	vertical-align: middle;
+	display: table-cell;
+	max-height: 90%;
+}
+
+
+
+
+.contacts-column p {
+	display: inline-block;
+	padding-left: 10px;
+}
+
+.contacts-column p:hover {
+	color: #ffd700;
+
+}
+
+.contacts-location {
+	font-size: 30px;
+	vertical-align: middle;
+
+
+}
+
+.contacts-location p:hover {
+	color: #ffd700;
+
+}
+
+.contacts-location p {
+	display: inline-block;
+	padding-left: 10px;
+}
+
+.contacts-location h2 {
+	font-size: 25px;
+	color: #fff;
+}
