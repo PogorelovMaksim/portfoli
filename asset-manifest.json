@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.734d0e51.css",
+    "main.js": "/static/js/main.cbf4e123.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo_storm.png": "/static/media/logo_storm.bf668d3b3a72209833ab.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_subb.png": "/static/media/logo_subb.00e425b19d8c2e89bf50.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.734d0e51.css.map": "/static/css/main.734d0e51.css.map",
+    "main.cbf4e123.js.map": "/static/js/main.cbf4e123.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734d0e51.css",
+    "static/js/main.cbf4e123.js"
+  ]
+}
