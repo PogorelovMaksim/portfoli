@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom"
 import AnimatedLetters from "../AnimatedLetters";
 import './index.scss';
-import Logo from "./Logo";
+import LogoS from '../../assets/images/logo_storm.png';
 
 const Home = () => {
 
@@ -47,8 +47,12 @@ const Home = () => {
 
 				</div>
 
+				<div className="logo-container" >
+					<img className='solid-logo' src={LogoS} alt='logo' />
+
+				</div>
 			</div>
-			<Logo />
+
 		</>
 	)
 }

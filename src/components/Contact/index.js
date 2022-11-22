@@ -42,7 +42,7 @@ const Contact = () => {
 							</a>
 						</li>
 						<li>
-							<a target="_blank" rel='noreferrer' href='mailto:pogorelovmaks1@gmail.com'>
+							<a target="_blank" rel='noreferrer' href='https://wa.me/79081735759'>
 								<FontAwesomeIcon icon={faWhatsapp} color="#00FF00" />
 								<p>Whatsapp</p>
 							</a>
@@ -62,7 +62,6 @@ const Contact = () => {
 							<FontAwesomeIcon icon={faLocationDot} color="#FF0000" />
 							<p>Russia -Novocherkassk, Rostovskaya oblast', 346400  </p>
 						</a>
-						<h2>Ready to relocate.</h2>
 					</div>
 				</div>
 
